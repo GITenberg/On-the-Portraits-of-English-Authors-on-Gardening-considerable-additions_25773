@@ -1,0 +1,26 @@
+_repo: On-the-Portraits-of-English-Authors-on-Gardening-considerable-additions_25773
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Felton, Samuel
+    gutenberg_agent_id: '31572'
+    url: http://www.gutenberg.org/2009/agents/31572
+description: ''
+gutenberg_issued: '2008-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horticulturists -- England'
+- !lcsh 'Gardening -- Bibliography'
+- !lcc 'Z'
+title: "On the Portraits of English Authors on Gardening,\r\nwith Biographical Notices\
+  \ of Them, 2nd edition, with considerable additions"
+url: http://www.gutenberg.org/ebooks/25773
